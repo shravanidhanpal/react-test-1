@@ -1,0 +1,10 @@
+.btn{
+    padding: .25rem;
+    color: white;
+    background-color: blue;
+    margin-top: .24rem;
+}
+
+.btn:hover,.btn:active{
+    background-color: rgb(28, 28, 175);
+}

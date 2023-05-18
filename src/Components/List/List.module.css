@@ -1,0 +1,11 @@
+.outer{
+    margin: 2rem;
+}
+
+.list{
+    list-style: none;
+    border: 1px solid #ccc;
+    padding: .24rem;
+    margin-left: .5rem;
+
+}

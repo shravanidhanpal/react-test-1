@@ -1,0 +1,21 @@
+.form{
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+}
+
+label{
+    display: block;
+    font-weight: bolder;
+}
+input{
+    width: 100%;
+    padding: .15rem;
+    margin-bottom: .5rem;
+
+}
+select{
+    width: 100%;
+    border: 1px solid salmon;
+}
